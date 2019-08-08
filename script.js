@@ -6,7 +6,7 @@ if(start === 'Yes' || 'yes'){
 }
 
 
-let playerName = 'Joel'; //prompt('Please enter your name!')
+let playerName = prompt('Please enter your name!')
 
 let lives = 0;
 let playerHealth = 40;
